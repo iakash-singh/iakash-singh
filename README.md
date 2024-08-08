@@ -9,7 +9,7 @@
 <div align="center" style="color: #000000;">
  
  🎓 I'm currently pursuing my **MSc(IT)** at **DAIICT** <br/>
- 🌱 I'm currently learning **Laravel** <br/>
+ 🌱 **Exploring** <br/>
  💬 Ask me about **Flutter, Dart, Java, PostgreSQL, Firebase, PHP, MERN stack... or anything [here](https://github.com/iakash-singh/iakash-singh/issues)** <br/>
  ⚡ Fun fact: **I love public speaking and playing volleyball and badminton!**
  
