@@ -13,8 +13,8 @@
  💬 Ask me about **Flutter, Dart, Java, PostgreSQL, Firebase, PHP, MERN stack... or anything [here](https://github.com/iakash-singh/iakash-singh/issues)** <br/>
  ⚡ Fun fact: **I love public speaking and playing volleyball and badminton!**
  
- </div>
- 
+</div>
+
 <div align="center"> 
   <a href="akashsingh7202@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
