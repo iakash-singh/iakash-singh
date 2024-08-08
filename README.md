@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/akashsingh0/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://iakash-singh.github.io" target="_blank">
+  <a href="https://github.com/iakash-singh" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
   <a href="https://leetcode.com/u/akashingh/" target="_blank">
