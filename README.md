@@ -9,7 +9,7 @@
 <div align="center" style="color: #000000;">
  
  👨‍💻 I'm a passionate **Software Developer** who loves building **scalable, user-friendly mobile and web applications** <br/>
- 📱 I specialize in **cross-platform mobile apps** with a strong focus on **iOS development using Flutter** <br/>
+ 📱 I specialize in **cross-platform mobile apps** with a strong focus on **iOS development using swift and Flutter** <br/>
  🌱 Currently expanding into **native iOS technologies** like **Swift & SwiftUI** <br/>
  💬 Ask me about **Flutter, Dart, iOS, Firebase, Java, PostgreSQL, PHP, MERN stack** or anything [here](https://github.com/iakash-singh/iakash-singh/issues) <br/>
  ⚡ Fun fact: **I enjoy public speaking, volleyball, and badminton!**
