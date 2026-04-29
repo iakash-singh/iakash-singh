@@ -145,12 +145,6 @@
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iakash-singh&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="iakash-singh" />
-</div>
-
-<br/>
 <hr/>
 
 <h3 align="center">
