@@ -36,7 +36,7 @@
   <a href="https://github.com/iakash-singh" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/akashingh/" target="_blank">
+  <a href="https://leetcode.com/u/akash--singh/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </div>
@@ -124,6 +124,25 @@
 **Tools & DevOps**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark" />
+
+</div>
+
+<br/>
+
+<h2 align="center">🤖 AI Tools I Use</h2>
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+<img src="https://img.shields.io/badge/Antigravity-6C3CE1?style=for-the-badge&logo=lightning&logoColor=white" />
+<img src="https://img.shields.io/badge/Core_ML-000000?style=for-the-badge&logo=apple&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
 
 </div>
 
