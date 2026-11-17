@@ -2,9 +2,9 @@
 
 <h3 align="center">Software engineer building reliable mobile and backend systems, end to end</h3>
 
-<p align="center">
+<!-- <p align="center">
   Software Engineer at <strong>Radixweb</strong> · M.Sc IT, DA-IICT · India 🇮🇳
-</p>
+</p> -->
 
 <div align="center">
   <a href="mailto:akashsingh7202@gmail.com">
