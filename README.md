@@ -1,30 +1,10 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+<h1 align="center">Hi, I'm Akash Singh 👋</h1>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Akash+Singh!;&color=58A6FF" />
-</h1>
-
-<h3 align="center">iOS & Cross-Platform Software Engineer from India 🇮🇳</h3>
+<h3 align="center">Software engineer building reliable mobile and backend systems, end to end</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iakash-singh&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
+  Software Engineer at <strong>Radixweb</strong> · M.Sc IT, DA-IICT · India 🇮🇳
 </p>
-
-<br/>
-
-<div align="center">
-
-🚀 Currently shipping **Anzenn Safety** on the App Store — an AI-powered workplace inspection app with on-device **YOLOv12 + Core ML** inference <br/>
-📱 Software Engineer at **Injala Pvt Ltd**, building production iOS apps in **Swift/UIKit** and cross-platform apps in **Flutter** <br/>
-🤖 Passionate about **on-device ML**, converting TensorFlow models to **Core ML** for offline-capable iOS apps <br/>
-💬 Ask me about **Swift, Flutter, Core ML, Firebase, WebRTC, FastAPI, PostgreSQL** <br/>
-⚡ Fun fact: **I enjoy public speaking, volleyball, and badminton!**
-
-</div>
-
-<br/>
 
 <div align="center">
   <a href="mailto:akashsingh7202@gmail.com">
@@ -33,139 +13,76 @@
   <a href="https://www.linkedin.com/in/akashsingh0/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/iakash-singh" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="https://leetcode.com/u/akash--singh/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </div>
 
 <br/>
-<hr/>
 
-<h2 align="center">🚀 Featured Projects</h2>
+## About
 
-<br/>
+I'm a software engineer who likes owning a problem from the phone screen to the database to production.
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" valign="top">
-        <h3>🛡️ Anzenn Safety — iOS App</h3>
-        <p>Workplace safety compliance app with real-time on-device hazard and PPE detection. Reduced manual inspection time by <strong>60%</strong>.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Core_ML-000000?style=flat&logo=apple&logoColor=white"/>
-          <img src="https://img.shields.io/badge/YOLOv12-00FFFF?style=flat&logoColor=black"/>
-          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
-        </p>
-        <p>📱 Live on the App Store · OSHA-compliant · Offline-capable inference</p>
-      </td>
-      <td width="50%" valign="top">
-        <h3>💬 Injala Messenger — Flutter App</h3>
-        <p>Secure cross-platform real-time chat app with audio/video calling, file sharing, and group management.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
-          <img src="https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
-          <img src="https://img.shields.io/badge/Riverpod-0175C2?style=flat&logoColor=white"/>
-        </p>
-        <p>🔒 OTP login · Screen lock · Role-based group controls</p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" valign="top">
-        <h3>🎵 Sangeet — Music Streaming App</h3>
-        <p>Spotify-like cross-platform music app with offline playback, playlists, and a custom FastAPI backend.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
-          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
-          <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Hive-FF7043?style=flat&logoColor=white"/>
-        </p>
-        <p>📐 MVVM architecture · REST APIs · Offline-first with Hive</p>
-      </td>
-      <td width="50%" valign="top">
-        <h3>📰 News App — iOS App</h3>
-        <p>Real-time news reader with category filtering, bookmarking, and a clean card-based interface.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white"/>
-          <img src="https://img.shields.io/badge/UIKit-000000?style=flat&logo=apple&logoColor=white"/>
-          <img src="https://img.shields.io/badge/REST_API-005571?style=flat&logoColor=white"/>
-        </p>
-        <p>🔍 In-app search · Keyword filtering · UserDefaults bookmarks</p>
-      </td>
-    </tr>
-  </table>
-</div>
+- 🧩 **Hard problems, root-caused.** On the RealSafe app I tracked down why users were being clocked out while still on site, and fixed it with a polygon geofence built on computational geometry. The Android team later reused the logic.
+- 📱 **Mobile.** Production apps in Swift/UIKit and Flutter, including on-device ML with Core ML.
+- 🖥️ **Backend and infrastructure.** Node.js, PostgreSQL and MongoDB services running in production on Windows Server and AWS EC2, including debugging real outages and reliability issues.
+- 🤖 **Applied ML.** Shipping YOLOv12 models to run offline on-device.
+- ⚡ Outside code: public speaking, volleyball and badminton.
 
-<br/>
-<hr/>
+**Open to software engineering roles** (mobile, full-stack or backend). The best way to reach me is LinkedIn or email.
 
-<h2 align="center">⚒️ Tech Stack</h2>
+---
 
-<br/>
+## Featured Projects
 
-<div align="center">
+### 📍 RealSafe: polygon geofencing for clock-in / clock-out
+In the [RealSafe iOS app](https://apps.apple.com/us/app/realsafe-app/id6689494688), users were being clocked out while still on site. I found the cause and replaced the circular geofence with a polygon geofence: ray-casting point-in-polygon, equirectangular projection to work in meters, polygon buffering (Minkowski sum) to absorb GPS noise, and proper background handling.
 
-**Mobile & On-device ML**
+`Swift` `Core Location` `Computational geometry`
 
-<img src="https://skillicons.dev/icons?i=swift,flutter,dart,xcode&theme=dark" />
+### 🛡️ Anzenn Safety: AI-powered inspection app
+Workplace safety inspection app with real-time, on-device hazard and PPE detection (YOLOv12 + Core ML). Reduced manual inspection time by **60%**. Built at Injala Pvt Ltd.
 
-**Backend & Databases**
+`Swift` `Core ML` `YOLOv12` `Firebase`
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mongodb,sqlite,firebase&theme=dark" />
+[View on the App Store](https://apps.apple.com/us/app/anzenn-safety/id1573398822)
 
-**Languages & Web**
+### 🖼️ Pixposh: photo and print workflow app
+App for photographers, modeling agencies and creative professionals that turns raw shoot images into finished modeling comp cards and physical prints. I revamped existing features and built new ones: better PDF generation, proper templates and their design, a logger, and the order flow. I also worked on the Node.js backend and its deployment on AWS EC2.
 
-<img src="https://skillicons.dev/icons?i=java,javascript,typescript,html,css,react,nodejs&theme=dark" />
+`Flutter` `Node.js` `MongoDB` `AWS EC2`
 
-**Tools & DevOps**
+[View on the App Store](https://apps.apple.com/us/app/pixposh/id6479634201)
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark" />
+### 🏭 Industrial safety platform: Permit-to-Work and Truck Loading / PPE systems
+Web applications for workplace safety, with two Node.js/Express backends and a shared frontend. I handle the full production setup: PostgreSQL, Windows Server deployment with PM2 as a Windows service, rate limiting behind a proxy, and diagnosing issues such as 502 errors and silent notification failures.
 
-</div>
+`Node.js` `Express` `PostgreSQL` `PM2` `IIS`
+
+### 💬 Injala Messenger: cross-platform chat
+Secure real-time chat app with audio/video calling, file sharing, group management, OTP login and screen lock.
+
+`Flutter` `WebRTC` `Firebase` `Riverpod`
+
+### 🎵 Sangeet: music streaming app
+Spotify-style app with offline playback and playlists, built on a custom FastAPI backend, MVVM architecture and an offline-first Hive cache.
+
+`Flutter` `FastAPI` `PostgreSQL` `Hive`
+
+---
+
+## Tech Stack
+
+**Languages:** Swift · Dart · JavaScript · TypeScript · Python<br/>
+**Backend:** Node.js · Express · FastAPI · PostgreSQL · MongoDB · REST APIs<br/>
+**Mobile:** iOS (UIKit, Core Location, Core Data, Core ML) · Flutter · Firebase<br/>
+**Infrastructure:** AWS EC2 · Windows Server · IIS · PM2 · Git<br/>
+**ML:** TensorFlow → Core ML conversion · YOLO · OpenCV<br/>
+**Tools:** Xcode · Postman · Figma
 
 <br/>
 
-<h2 align="center">🤖 AI Tools I Use</h2>
-
-<br/>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-<img src="https://img.shields.io/badge/Antigravity-6C3CE1?style=for-the-badge&logo=lightning&logoColor=white" />
-<img src="https://img.shields.io/badge/Core_ML-000000?style=for-the-badge&logo=apple&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logoColor=black" />
-<img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
-
-</div>
-
-<br/>
-<hr/>
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iakash-singh&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="iakash-singh" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iakash-singh&theme=tokyonight&hide_border=true" alt="iakash-singh" />
-</div>
-
-<br/>
-<hr/>
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Open+to+iOS+%26+Full-Stack+roles!+🚀;Shoot+me+a+message+on+LinkedIn!;Always+down+to+collab+:)&color=58A6FF">
-</h3>
+<p align="center">
+  <em>Always happy to collaborate. Shoot me a message on LinkedIn.</em>
+</p>
